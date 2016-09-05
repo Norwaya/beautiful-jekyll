@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Norwaya's Blog
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -40,8 +40,8 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
+  email: "yinpan_yp@163.com"
+  facebook: Norwaya  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourname  # eg. daattali
